@@ -1,5 +1,6 @@
 package team2.proto.service.post;
 
+<<<<<<< Updated upstream
 import lombok.RequiredArgsConstructor;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.PageRequest;
@@ -96,4 +97,10 @@ public class PostServiceImpl implements PostService {
                 post.getProductUrl());
     }
 
+=======
+import org.springframework.stereotype.Service;
+
+@Service
+public class PostServiceImpl implements PostService{
+>>>>>>> Stashed changes
 }
