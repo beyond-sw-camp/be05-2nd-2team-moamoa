@@ -7,6 +7,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PutMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import team2.proto.dto.adminauth.AdminAuthRequestDTO;
+import team2.proto.dto.adminauth.AdminAuthResponseDTO;
 import team2.proto.service.adminauth.AdminAuthService;
 
 import java.util.List;
@@ -19,13 +20,14 @@ public class AdminAuthController {
     private AdminAuthService service;
 
     @GetMapping("/authlist")
-    public ResponseEntity<List<AdminAuthRequestDTO>> getList() {
-
-        return null;
+    public List getAllAuthList() {
+        System.out.println("AdminAuthController.getAllAuthList");
+        return service.getAllAuthList();
     }
 
     @PutMapping("/authlist/{authNo}")
     public ResponseEntity<Void> auth() {
+
         return null;
     }
 }
