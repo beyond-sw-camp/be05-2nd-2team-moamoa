@@ -95,5 +95,5 @@
 
 ## 시현영상
 
-![메일전송 시연 (1)](https://github.com/beyond-sw-camp/be05-2nd-teamMoa-moamoa/assets/92570309/76836fa0-7210-408a-887c-d3f5d86519bd)
+<img width="80%" src="https://github.com/indoor98/proto/assets/155680893/4d0b405d-15ea-4d42-8699-66b76817dc75)"/>
 
