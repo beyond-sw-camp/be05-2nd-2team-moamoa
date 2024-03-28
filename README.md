@@ -89,3 +89,6 @@
 ## 테스트 케이스 및 결과
 
 - <https://docs.google.com/document/d/1r4iJGAXg6GL7j4NUlw16QeEHKis0Cqt9zFDCd4YM7cw/edit#heading=h.1tggv8i3p8uj>
+
+## 피그마를 통한 UI 작업 가본
+<https://www.figma.com/file/yab9wGErgDzQuX7DPhVQYd/Beyond-SW-5th-2nd-pjt?type=design&node-id=0-1&mode=design&t=Mcn1aumCnhMybVKP-0>
