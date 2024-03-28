@@ -92,3 +92,7 @@
 
 ## 피그마를 통한 UI 작업 가본
 <https://www.figma.com/file/yab9wGErgDzQuX7DPhVQYd/Beyond-SW-5th-2nd-pjt?type=design&node-id=0-1&mode=design&t=Mcn1aumCnhMybVKP-0>
+
+## 시현영상
+
+![메일전송 시연](https://github.com/beyond-sw-camp/be05-2nd-teamMoa-moamoa/assets/92570309/4854e75c-ee5f-419b-9c2d-6e60766bec67)
