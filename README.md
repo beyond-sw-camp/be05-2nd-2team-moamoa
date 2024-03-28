@@ -95,5 +95,4 @@
 
 ## 시현영상
 
-<img width="80%" src="https://github.com/indoor98/proto/assets/155680893/4d0b405d-15ea-4d42-8699-66b76817dc75)"/>
-
+<img width="100%" src="https://github.com/indoor98/proto/assets/155680893/4d0b405d-15ea-4d42-8699-66b76817dc75)"/>
